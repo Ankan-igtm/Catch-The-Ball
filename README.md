@@ -1,2 +1,2 @@
 # Catch-The-Ball
-A game named CATCH THE BALL developed using Python and Turtle
+Catch the Ball is a fun and interactive game built using Python and Turtle, where the player controls a paddle to catch falling balls. The game features simple and intuitive gameplay, score tracking, and random ball spawn locations and speeds. With smooth paddle movement and clean code, this game is a great example of Python's capabilities in game development. Clone the repository, run the game, and test your catching skills
